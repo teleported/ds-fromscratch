@@ -111,3 +111,15 @@ print 1 in d2
 print 100 in d2
 print d2.get(100)
 print d2.get(100, 'NA')
+
+tweet = {
+	"user":	"anand",
+	"text": "hello world",
+	"retweet_count": 101,
+	"hashtags": ['#first', '#program', '#test']
+}
+print tweet
+print tweet.keys()
+print tweet.values()
+print tweet.items()
+
