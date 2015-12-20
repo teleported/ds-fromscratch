@@ -17,7 +17,10 @@ print t
 str1 = "My name is Albert Einstein"
 print sorted(str1.split())
 print sorted(str1.split(), key=str.lower)
-
+# Inefficient
 dict1 = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four'}
 print dict1
 print sorted(dict1, key=lambda x: dict1[x])
+# Efficient
+
+# Todo
