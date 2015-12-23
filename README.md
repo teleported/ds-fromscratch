@@ -1,5 +1,5 @@
 # ds-fromscratch
-Code based on the book 'Data Science from Scratch'
+My practice coding, based on the book 'Data Science from Scratch'
 
 chapter02 - Python basics
 
